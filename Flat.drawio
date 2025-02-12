@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="tku49OuCzhKwU1QaGcV9">
-    <mxGraphModel dx="188" dy="104" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1060" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -932,6 +932,24 @@
             <mxPoint x="890" y="377" as="sourcePoint" />
             <mxPoint x="945" y="378" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UphWNJ7Wmb9yZihCptqu-69" value="&lt;font&gt;&lt;i style=&quot;&quot;&gt;Predsoba / Hodnik&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=0;fillColor=none;fontColor=#333333;strokeColor=none;opacity=0;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="696.8520000000001" y="133.85899999999998" width="122.047" height="27.558999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="UphWNJ7Wmb9yZihCptqu-70" value="&lt;i&gt;Kuhinja / Predsoba&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=0;fillColor=none;fontColor=#333333;strokeColor=none;opacity=0;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="633.8590000000002" y="478.346" width="122.047" height="27.558999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="UphWNJ7Wmb9yZihCptqu-71" value="&lt;i&gt;Kopalnica&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=0;fillColor=none;fontColor=#333333;strokeColor=none;opacity=0;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="917.6960000000001" y="421.24299999999994" width="74.803" height="27.558999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="UphWNJ7Wmb9yZihCptqu-72" value="&lt;font&gt;&lt;i style=&quot;&quot;&gt;Spalnica 1&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=0;fillColor=none;fontColor=#333333;strokeColor=none;opacity=0;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="907.8230000000001" y="707.91" width="78.74" height="27.558999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="UphWNJ7Wmb9yZihCptqu-73" value="&lt;font&gt;&lt;i style=&quot;&quot;&gt;Dnevna soba&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=0;fillColor=none;fontColor=#333333;strokeColor=none;opacity=0;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="258.09000000000015" y="527.557" width="94.488" height="27.558999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="UphWNJ7Wmb9yZihCptqu-74" value="&lt;font&gt;&lt;i style=&quot;&quot;&gt;Spalnica 2&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=0;fillColor=none;fontColor=#333333;strokeColor=none;opacity=0;strokeOpacity=100;" vertex="1" parent="1">
+          <mxGeometry x="266.307" y="133.85399999999998" width="78.74" height="27.558999999999997" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
