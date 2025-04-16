@@ -1,35 +1,608 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="opfdp-dEq-lyO0Mdz7MI">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4ZPedd_NQfEWY4n9eUm-1" target="h4ZPedd_NQfEWY4n9eUm-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Network Topology Types&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="h4ZPedd_NQfEWY4n9eUm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px; color: light-dark(rgb(0, 0, 0), rgb(0, 127, 255));&quot;&gt;&lt;i&gt;Network Topology Types&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="20" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Point To Point&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="h4ZPedd_NQfEWY4n9eUm-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1. Point To Point&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2. Bus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="h4ZPedd_NQfEWY4n9eUm-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;2. Bus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="80" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;3. Ring&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="h4ZPedd_NQfEWY4n9eUm-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;3. Ring&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="605" y="80" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="45.6" height="61.800000000000004" as="geometry" />
+        <mxCell id="h4ZPedd_NQfEWY4n9eUm-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
+          <mxGeometry x="90.25" y="150" width="29.51" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="h4ZPedd_NQfEWY4n9eUm-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="h4ZPedd_NQfEWY4n9eUm-8" target="h4ZPedd_NQfEWY4n9eUm-9">
+        <mxCell id="h4ZPedd_NQfEWY4n9eUm-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="h4ZPedd_NQfEWY4n9eUm-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="300" as="sourcePoint" />
-            <mxPoint x="150" y="250" as="targetPoint" />
+            <mxPoint x="100.25" y="300" as="sourcePoint" />
+            <mxPoint x="200.25" y="170.9000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="190.25" y="150" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="120" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="240" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-17" source="LGrKHol-IDdfTOCO9Mpc-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="110" as="sourcePoint" />
+            <mxPoint x="40" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="70" as="sourcePoint" />
+            <mxPoint x="80" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="110" as="sourcePoint" />
+            <mxPoint x="120" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="160" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="110" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-17" target="LGrKHol-IDdfTOCO9Mpc-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="110" as="sourcePoint" />
+            <mxPoint x="40" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-10" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry x="25.24000000000001" y="100" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-13" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry x="103.50999999999999" y="100" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-14" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry x="187" y="100" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-15" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry x="63" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-16" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-17">
+          <mxGeometry x="144" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="120" width="220.51" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-24" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-36">
+          <mxGeometry y="80" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-25" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-36">
+          <mxGeometry x="40.49000000000001" y="160" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-26" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-36">
+          <mxGeometry x="150.49" y="160" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-27" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-36">
+          <mxGeometry x="191" y="80" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-28" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-36">
+          <mxGeometry x="150.49" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-29" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-36">
+          <mxGeometry x="35.120000000000005" y="5" width="34.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-36" source="LGrKHol-IDdfTOCO9Mpc-24" target="LGrKHol-IDdfTOCO9Mpc-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="70" as="sourcePoint" />
+            <mxPoint x="81" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-36" source="LGrKHol-IDdfTOCO9Mpc-25" target="LGrKHol-IDdfTOCO9Mpc-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-79" y="210" as="sourcePoint" />
+            <mxPoint x="-29" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-36" source="LGrKHol-IDdfTOCO9Mpc-25" target="LGrKHol-IDdfTOCO9Mpc-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91" y="300" as="sourcePoint" />
+            <mxPoint x="141" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-36" source="LGrKHol-IDdfTOCO9Mpc-26" target="LGrKHol-IDdfTOCO9Mpc-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211" y="200" as="sourcePoint" />
+            <mxPoint x="261" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-36" source="LGrKHol-IDdfTOCO9Mpc-27" target="LGrKHol-IDdfTOCO9Mpc-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="151" y="110" as="sourcePoint" />
+            <mxPoint x="201" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-36" source="LGrKHol-IDdfTOCO9Mpc-29" target="LGrKHol-IDdfTOCO9Mpc-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-9" y="90" as="sourcePoint" />
+            <mxPoint x="41" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-37" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;4. Tree&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190.25" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-87" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="430" width="261.76" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-39" value="" style="group" vertex="1" connectable="0" parent="LGrKHol-IDdfTOCO9Mpc-87">
+          <mxGeometry y="40" width="261.76" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="240" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39" source="LGrKHol-IDdfTOCO9Mpc-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39.99700000000007" y="100" as="sourcePoint" />
+            <mxPoint x="40" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39" source="LGrKHol-IDdfTOCO9Mpc-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="110" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39" target="LGrKHol-IDdfTOCO9Mpc-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.7170000000001" y="70" as="sourcePoint" />
+            <mxPoint x="119.72000000000003" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-61" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="102.56" y="30" width="34.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-62" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="182.25" y="80" width="34.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-63" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="22.25" y="80" width="34.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-53" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="-20.75" y="140" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-54" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="24.25" y="140" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-55" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="73.25" y="140" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39" target="LGrKHol-IDdfTOCO9Mpc-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39.25" y="130" as="sourcePoint" />
+            <mxPoint x="-60.75" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-5.75" y="130" as="sourcePoint" />
+            <mxPoint x="89.25" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-6.050000000000011" y="140" as="sourcePoint" />
+            <mxPoint x="-6.050000000000011" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38.94999999999999" y="140" as="sourcePoint" />
+            <mxPoint x="38.94999999999999" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="88.94999999999999" y="140" as="sourcePoint" />
+            <mxPoint x="88.94999999999999" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-70" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="139.25" y="140" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-71" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="184.25" y="140" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-72" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry x="233.25" y="140" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199.25" y="130" as="sourcePoint" />
+            <mxPoint x="199.25" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154.25" y="130" as="sourcePoint" />
+            <mxPoint x="249.25" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153.95" y="140" as="sourcePoint" />
+            <mxPoint x="153.95" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198.95" y="140" as="sourcePoint" />
+            <mxPoint x="198.95" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="248.95000000000005" y="140" as="sourcePoint" />
+            <mxPoint x="248.95000000000005" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-86" value="" style="group;rotation=-180;" vertex="1" connectable="0" parent="LGrKHol-IDdfTOCO9Mpc-87">
+          <mxGeometry x="56.25" width="123.50999999999999" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-78" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;rotation=0;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry x="94" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-79" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;rotation=0;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry x="49" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-80" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;rotation=0;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="50" as="sourcePoint" />
+            <mxPoint x="64" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109" y="50" as="sourcePoint" />
+            <mxPoint x="14" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109" y="40" as="sourcePoint" />
+            <mxPoint x="109" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="40" as="sourcePoint" />
+            <mxPoint x="64" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="14" y="40" as="sourcePoint" />
+            <mxPoint x="14" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-88" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="500" y="440" width="220.51" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-89" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-88">
+          <mxGeometry y="80" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-90" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-88">
+          <mxGeometry x="40.49000000000001" y="160" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-91" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-88">
+          <mxGeometry x="150.49" y="160" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-92" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-88">
+          <mxGeometry x="191" y="80" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-93" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-88">
+          <mxGeometry x="150.49" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-94" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-88">
+          <mxGeometry x="35.120000000000005" y="5" width="34.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-89" target="LGrKHol-IDdfTOCO9Mpc-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="70" as="sourcePoint" />
+            <mxPoint x="81" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-96" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-90" target="LGrKHol-IDdfTOCO9Mpc-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-79" y="210" as="sourcePoint" />
+            <mxPoint x="-29" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-90" target="LGrKHol-IDdfTOCO9Mpc-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91" y="300" as="sourcePoint" />
+            <mxPoint x="141" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-91" target="LGrKHol-IDdfTOCO9Mpc-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211" y="200" as="sourcePoint" />
+            <mxPoint x="261" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-92" target="LGrKHol-IDdfTOCO9Mpc-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="151" y="110" as="sourcePoint" />
+            <mxPoint x="201" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-100" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-94" target="LGrKHol-IDdfTOCO9Mpc-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-9" y="90" as="sourcePoint" />
+            <mxPoint x="41" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-101" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-91" target="LGrKHol-IDdfTOCO9Mpc-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="60" as="sourcePoint" />
+            <mxPoint x="20" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-102" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-90" target="LGrKHol-IDdfTOCO9Mpc-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="160" as="sourcePoint" />
+            <mxPoint x="340" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-103" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-92" target="LGrKHol-IDdfTOCO9Mpc-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="140" as="sourcePoint" />
+            <mxPoint x="340" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-104" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-92" target="LGrKHol-IDdfTOCO9Mpc-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-90" target="LGrKHol-IDdfTOCO9Mpc-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-106" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-93" target="LGrKHol-IDdfTOCO9Mpc-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="300" as="sourcePoint" />
+            <mxPoint x="160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-107" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-89" target="LGrKHol-IDdfTOCO9Mpc-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="120" as="sourcePoint" />
+            <mxPoint x="100" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-108" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-91" target="LGrKHol-IDdfTOCO9Mpc-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="280" as="sourcePoint" />
+            <mxPoint x="110" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-88" source="LGrKHol-IDdfTOCO9Mpc-94" target="LGrKHol-IDdfTOCO9Mpc-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="270" as="sourcePoint" />
+            <mxPoint x="140" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;5. Mesh&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;7. Hybrid&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="720" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-113" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="800" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-114" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="11" y="70" as="sourcePoint" />
+            <mxPoint x="291" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-115" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-113" source="LGrKHol-IDdfTOCO9Mpc-121">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="110" as="sourcePoint" />
+            <mxPoint x="40" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-116" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="70" as="sourcePoint" />
+            <mxPoint x="80" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-117" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="110" as="sourcePoint" />
+            <mxPoint x="120" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-118" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="160" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-119" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="110" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-113" target="LGrKHol-IDdfTOCO9Mpc-121">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="110" as="sourcePoint" />
+            <mxPoint x="40" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-121" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry x="25.24000000000001" y="100" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-122" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry x="103.50999999999999" y="100" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-123" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry x="187" y="100" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-124" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry x="63" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-125" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-113">
+          <mxGeometry x="144" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-126" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="1">
+          <mxGeometry x="463.49" y="960" width="34.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-127" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="420.49" y="1020" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-128" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="465.49" y="1020" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-129" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="514.49" y="1020" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-130" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.49" y="1010" as="sourcePoint" />
+            <mxPoint x="480.49" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-131" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435.49" y="1010" as="sourcePoint" />
+            <mxPoint x="530.49" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-132" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435.19" y="1020" as="sourcePoint" />
+            <mxPoint x="435.19" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-133" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.19" y="1020" as="sourcePoint" />
+            <mxPoint x="480.19" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-134" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530.19" y="1020" as="sourcePoint" />
+            <mxPoint x="530.19" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-135" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="LGrKHol-IDdfTOCO9Mpc-126" target="LGrKHol-IDdfTOCO9Mpc-123">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="980" as="sourcePoint" />
+            <mxPoint x="480" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-136" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;3. Ring&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="734" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-137" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="774" width="220.51" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-138" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-137">
+          <mxGeometry y="80" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-139" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-137">
+          <mxGeometry x="40.49000000000001" y="160" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-140" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-137">
+          <mxGeometry x="150.49" y="160" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-141" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-137">
+          <mxGeometry x="191" y="80" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-142" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-137">
+          <mxGeometry x="150.49" width="29.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-143" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8106.svg;" vertex="1" parent="LGrKHol-IDdfTOCO9Mpc-137">
+          <mxGeometry x="35.120000000000005" y="5" width="34.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-137" source="LGrKHol-IDdfTOCO9Mpc-138" target="LGrKHol-IDdfTOCO9Mpc-143">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="70" as="sourcePoint" />
+            <mxPoint x="81" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-145" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-137" source="LGrKHol-IDdfTOCO9Mpc-139" target="LGrKHol-IDdfTOCO9Mpc-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-79" y="210" as="sourcePoint" />
+            <mxPoint x="-29" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-137" source="LGrKHol-IDdfTOCO9Mpc-139" target="LGrKHol-IDdfTOCO9Mpc-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91" y="300" as="sourcePoint" />
+            <mxPoint x="141" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-147" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-137" source="LGrKHol-IDdfTOCO9Mpc-140" target="LGrKHol-IDdfTOCO9Mpc-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211" y="200" as="sourcePoint" />
+            <mxPoint x="261" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-148" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-137" source="LGrKHol-IDdfTOCO9Mpc-141" target="LGrKHol-IDdfTOCO9Mpc-142">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="151" y="110" as="sourcePoint" />
+            <mxPoint x="201" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-149" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="LGrKHol-IDdfTOCO9Mpc-137" source="LGrKHol-IDdfTOCO9Mpc-143" target="LGrKHol-IDdfTOCO9Mpc-142">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-9" y="90" as="sourcePoint" />
+            <mxPoint x="41" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-150" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Modular_Switch_SBx8112.svg;" vertex="1" parent="1">
+          <mxGeometry x="240" y="844.5" width="49.67" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-151" value="Lovro Trpin 2.A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1090" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-152" value="STPŠ, elektrotehnik" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGrKHol-IDdfTOCO9Mpc-153" value="2025. 16.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720.51" y="1120" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
